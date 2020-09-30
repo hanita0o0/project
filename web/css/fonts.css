@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Font_Name_1';
+    src: url('../fonts/B Nazanin.ttf') format('truetype ');
+    font-weight: normal;
+    
+}
+
+@font-face {
+    font-family: 'Font_Name_2';
+    src: url('../fonts/iranyekanweblightfanum.woff') format('woff ');
+    font-weight: normal;
+    
+}
